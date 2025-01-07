@@ -4,6 +4,6 @@ I am a 2nd year PhD candidate studying direct imaging of exoplanets at the Max P
 "Formation of eccentric gas discs from sublimating or partially disrupted asteroids orbiting white dwarfs", Trevascus et al. (2021)
 
 # Contact
-Email: [trevascus@mpia.de](trevascus@mpia.de)
+Email: [trevascus@mpia.de](mailto:trevascus@mpia.de)
 
-Bluesky:
+Bluesky: [@dtcupcakes.bsky.social](https://bsky.app/profile/dtcupcakes.bsky.social)
