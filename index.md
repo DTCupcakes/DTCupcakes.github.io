@@ -1,4 +1,4 @@
-I am a 2nd year PhD candidate studying direct imaging of exoplanets at the [Max Planck Institute for Astronomy (MPIA)](https://www.mpia.de/en) in Heidelberg, Germany. 
+I am a 2nd year PhD candidate studying the discovery and characterisation of planets via direct imaging at the [Max Planck Institute for Astronomy (MPIA)](https://www.mpia.de/en) in Heidelberg, Germany. I am interested in searching for young planets via protoplanetary disk substructure, dynamical mass estimation of planets, and characterisation of planet formation with hot- and cold-start models.
 
 **Pronouns:** he/they
 
